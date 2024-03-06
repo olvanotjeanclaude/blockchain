@@ -1,0 +1,7 @@
+
+bigint: Failed to load bindings, pure JS will be used (try npm run rebuild?)
+Generated new KeyPair. Wallet PublicKey:  CxbEnFYheYNdP3qAaZfq78iB8SB6bcjjaktpQPiTQpCK
+Wallet PrivateKey: 3ew67U4t6pu6PTJrN7ZgEZe7HLhMfDfzG6T3inkjXKw6pyWF9vSvoPZ64morfDhP3RU3K5YhECSkPQ2EAWg3fW4K
+Wrote secret key to guideSecret.json.
+Airdrop Transaction Id: 5XTBZfFGp1Gjn3uRHnkvGamGxeLuFwSvihe3okgP4S5X3cNLMQkCBEHY3tUhtRwPcbxrquWnUMhM2F2WorpUmJLf
+https://explorer.solana.com/tx/5XTBZfFGp1Gjn3uRHnkvGamGxeLuFwSvihe3okgP4S5X3cNLMQkCBEHY3tUhtRwPcbxrquWnUMhM2F2WorpUmJLf?cluster=devnet
