@@ -1,0 +1,10 @@
+1. Create a new mint
+2. Transfer Mint
+3.Token transfer
+4.Freeze Token Account
+5.Unfreeze token account
+6.Burn tokens
+7.Change authority for accounts
+ ....
+8.Approve tokens to an account
+9.Revoke tokens from account

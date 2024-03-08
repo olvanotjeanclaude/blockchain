@@ -19,6 +19,7 @@ const metadata = {
 };
 
 const mint = generateSigner(umi);
+console.log(mint);
 umi.use(signerIdentity(userWalletSigner));
 umi.use(mplCandyMachine())
 
@@ -29,8 +30,8 @@ createAndMint(umi, {
     symbol: metadata.symbol,
     uri: metadata.uri,
     sellerFeeBasisPoints: percentAmount(0),
-    decimals: 8,
-    amount: 1000000_00000000,
+    decimals: 9,
+    amount: 100_000_000_000_000,
     tokenOwner: userWallet.publicKey,
     tokenStandard: TokenStandard.Fungible,
 }).sendAndConfirm(umi).then(() => {
